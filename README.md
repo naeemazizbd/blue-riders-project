@@ -21,7 +21,7 @@
 
 #### Project Live
  
-:heavy_check_mark: Show Live  site  [Blue Rider 24](https://pages.github.com/).
+:heavy_check_mark: Show Live  site  [Blue Rider 24](https://blue-riders24.web.app/).
 
 ### Thank You So Much  :blue_heart:
 
