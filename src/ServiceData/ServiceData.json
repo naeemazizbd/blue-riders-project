@@ -1,0 +1,4 @@
+[{"id":"bike-1","blueName":"Bike","blueImg":"https://freepngimg.com/thumb/bike/23143-8-hero-bike-transparent.png" ,"price":"$100","blueService":"Bike Services"},
+{"id":"car-2","blueName":"Car","blueImg":"https://freepngimg.com/thumb/car/11-2-car-picture.png" ,"price":"$100" ,"blueService":"Car Services"},
+{"id":"bus-3","blueName":"Bus","blueImg":"http://www.pngall.com/wp-content/uploads/5/Tour-Bus-PNG-Clipart.png" ,"price":"$100","blueService":"Bus Services"},
+{"id":"train-4","blueName":"Train","blueImg":"https://pngimg.com/uploads/trian/trian_PNG16620.png" ,"price":"$100","blueService":"Train Services"}]
